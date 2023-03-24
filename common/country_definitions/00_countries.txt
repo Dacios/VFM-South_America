@@ -2303,7 +2303,7 @@ PAT = {
 	
 	tier = principality
 	
-	cultures = { patagonian }
+	cultures = { mapuche }
 	capital = STATE_PATAGONIA
 }
 
@@ -2314,7 +2314,7 @@ THL = {
 	
 	tier = principality
 	
-	cultures = { patagonian }
+	cultures = { tehuelche }
 	capital = STATE_PATAGONIA
 }
 
