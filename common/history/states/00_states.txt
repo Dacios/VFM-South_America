@@ -2984,7 +2984,7 @@ STATES = {
 	s:STATE_JUJUY = {
 		create_state = {
 			country = c:GNI
-			owned_provinces = {  x204070 xeab107 x92e924 x256ef2 x8c37be xc3f7f6 xe6adae x8d1ed0 x3def82 xb01d65 x402b62 xc9249d x369ce3 }
+			owned_provinces = {  x204070 xeab107 x92e924 x256ef2 x8c37be xc3f7f6 xe6adae x8d1ed0 x3def82 xb01d65 x402b62 xc9249d x369ce3 xC11533 }
 		}
 		create_state = {
 			country = c:BOL
@@ -2998,7 +2998,7 @@ STATES = {
 
 		create_state = {
 			country = c:SLT
-			owned_provinces = { xAB66CC x5F3E39 x2080F0 x5CCB77 xC0183E x702282 xE6D25C xC11533 x02AD51 xDF80F0 x0643B5 x35da48 x2d4e45 }
+			owned_provinces = { xAB66CC x5F3E39 x2080F0 x5CCB77 xC0183E x702282 xE6D25C x02AD51 xDF80F0 x0643B5 x35da48 x2d4e45 }
 			state_type = unincorporated
 		}
 		
