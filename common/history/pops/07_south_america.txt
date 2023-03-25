@@ -420,6 +420,11 @@ POPS = {
 	s:STATE_SANTA_CRUZ = {
 		region_state:BOL = {
 			create_pop = {
+				culture = guarani
+				size = 32000
+			}
+		region_state:BOL = {
+			create_pop = {
 				culture = south_andean
 				size = 28200
 			}
@@ -438,7 +443,7 @@ POPS = {
 			}
 			create_pop = {
 				culture = guarani
-				size = 32000
+				size = 3000
 			}
 		}
 	}
