@@ -381,11 +381,11 @@ POPS = {
 		region_state:BOL = {
 			create_pop = {
 				culture = chilean
-				size = 873
+				size = 1873
 			}
 			create_pop = {
 				culture = south_andean
-				size = 576
+				size = 1576
 			}
 			create_pop = {
 				culture = atacamenos
@@ -394,7 +394,7 @@ POPS = {
 			create_pop = {
 				culture = atacamenos
 				religion = camaquen
-				size = 2696
+				size = 3696
 			}
 			create_pop = {
 				culture = afro_caribeno
@@ -404,12 +404,12 @@ POPS = {
 		region_state:CHL = {
 			create_pop = {
 				culture = chilean
-				size = 2789
+				size = 5789
 			}
 			create_pop = {
 				culture = atacamenos
 				religion = camaquen
-				size = 4399
+				size = 8399
 			}
 			create_pop = {
 				culture = afro_caribeno
