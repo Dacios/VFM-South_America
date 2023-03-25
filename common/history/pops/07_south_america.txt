@@ -418,7 +418,7 @@ POPS = {
 		}
 	}
 	s:STATE_SANTA_CRUZ = {
-		region_state:BOL = {
+		region_state:GNI = {
 			create_pop = {
 				culture = guarani
 				size = 32000
