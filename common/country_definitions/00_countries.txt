@@ -540,14 +540,14 @@ PAR = {
 	capital = STATE_EMILIA
 }
 
-PRA = { #Gao-Para
+PRA = { #Cabanos
 	color = { 117 32 36 }
 	
 	country_type = recognized
 
 	tier = principality
 	
-	cultures = { brazilian }
+	cultures = { afro_brazilian amazonian }
 	religion = catholic
 	capital = STATE_PARA
 }
