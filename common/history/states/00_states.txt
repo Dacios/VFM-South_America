@@ -2673,7 +2673,7 @@ STATES = {
 		}
 		create_state = {
 			country = c:KGG
-			owned_provinces = { xEB0D5F xC8530D x5A3B50 xF6A625 }
+			owned_provinces = { xC8530D x5A3B50 }
 		}
 		add_homeland = brazilian
 		add_homeland = guarani
@@ -2686,9 +2686,13 @@ STATES = {
 				xC550DC x8A5C63 x8D6AA3 xDF5E13 x09803F x9937ED x9DE26B x3066EF xA88387 x02483B x06999F x2DA91C x4538A5 xF3F10A xC7B370 x600573 xEDCD15 xA57238
 			}
 		}
-		
+		create_state = {
+			country = c:KGG
+			owned_provinces = { xEB0D5F xF6A625 }
+		}
 		add_homeland = brazilian
-		add_homeland = guarani	
+		add_homeland = guarani
+		add_homeland = kaingang	
 	}
 	s:STATE_SAO_PAULO = {
 		create_state = {
@@ -2819,7 +2823,7 @@ STATES = {
 		}
 		
 		add_homeland = platinean
-		add_homeland = patagonian
+		add_homeland = mapuche
 		add_claim = c:BUE
 	}
 	s:STATE_PATAGONIA = { 	
@@ -2840,7 +2844,8 @@ STATES = {
 			}
 		}
 		
-		add_homeland = patagonian
+		add_homeland = tehuelche
+		add_homeland = mapuche		
 		add_claim = c:BUE
 		add_claim = c:CHL
 	}
@@ -2861,7 +2866,7 @@ STATES = {
 
 		add_homeland = platinean
 		add_homeland = chilean
-		add_homeland = patagonian
+		add_homeland = mapuche
 		add_claim = c:BUE	
 		add_claim = c:MDZ
 		add_claim = c:SLS
@@ -2885,7 +2890,7 @@ STATES = {
 		}
 		
 		add_homeland = platinean
-		add_homeland = patagonian	
+		add_homeland = mapuche	
 		add_claim = c:BUE	
 	}
 	s:STATE_SANTA_FE = {
@@ -3057,7 +3062,7 @@ STATES = {
 		}
 		
 		add_homeland = chilean
-		add_homeland = patagonian
+		add_homeland = mapuche
 	}
 	s:STATE_ARAUCANIA = {
 		create_state = {
@@ -3078,7 +3083,7 @@ STATES = {
 			}
 		}
 		
-		add_homeland = patagonian				
+		add_homeland = araucanian				
 		add_claim = c:CHL
 	}
 	s:STATE_SOUTH_ATLANTIC_ISLANDS = {
