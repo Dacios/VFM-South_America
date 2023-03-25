@@ -1164,16 +1164,6 @@ POPS = {
 			}
 			create_pop = {
 				culture = mapuche
-				size = 25537
-			}
-		}
-		region_state:CHL = {
-			create_pop = {
-				culture = chilean
-				size = 212775
-			}
-			create_pop = {
-				culture = mapuche
 				size = 52537
 			}
 		}
