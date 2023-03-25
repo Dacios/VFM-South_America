@@ -256,3 +256,14 @@ KGG = {
 	cultures = { kaingang }
 	capital = STATE_CORRIENTES
 }
+
+NGH = {
+    color = { 150 136 6 }
+
+	country_type = unrecognized
+	
+	tier = principality
+	
+	cultures = { mapuche }
+	capital = STATE_LOS_RIOS
+}

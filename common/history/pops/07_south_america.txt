@@ -1140,6 +1140,27 @@ POPS = {
 		}
 	}
 	s:STATE_LOS_RIOS = {
+		region_state:NGH = {
+			create_pop = {
+				culture = chilean
+				size = 9000
+			}
+			create_pop = {
+				culture = mapuche
+				size = 83000
+			}
+		}
+		region_state:CHL = {
+			create_pop = {
+				culture = chilean
+				size = 212775
+			}
+			create_pop = {
+				culture = mapuche
+				size = 25537
+			}
+		}
+	}
 		region_state:CHL = {
 			create_pop = {
 				culture = chilean

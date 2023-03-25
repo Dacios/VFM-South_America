@@ -2325,7 +2325,7 @@ SLK = {
 	
 	tier = principality
 	
-	cultures = { patagonian }
+	cultures = { araucanian }
 	capital = STATE_ARAUCANIA
 }
 
