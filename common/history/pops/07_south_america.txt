@@ -257,12 +257,6 @@ POPS = {
 		}
 	}
 	s:STATE_GUAVIARE = {
-		region_state:PEU = {
-			create_pop = {
-				culture = amazonian
-				size = 500
-			}
-		}
 		region_state:CLM = {
 			create_pop = {
 				culture = amazonian
