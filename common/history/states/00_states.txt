@@ -2671,9 +2671,13 @@ STATES = {
 			    x38FE72 x1D2749 x535BBC xE80B69 xDF9E45 x6B95AD xA7D75D x859E23 xBACBB5 x53CD15 x3A6B08 x32FF03 x6806EF xB6F7AD xDB9540 xE122FE x44FB4A xB989FC x5CDB1F x8A1D55 x3B0630 x003689 x01887B xE9A1A3 x946DFF x1340B9 x492CDF x966EB0 xB9F1A1 x7B795B xAAF4D8 xC550D6 x6A63A4 x9A966C x666C0F xF98F63 xA30827 x1CF076 xC4A130 
 			}
 		}
-		
+		create_state = {
+			country = c:KGG
+			owned_provinces = { xEB0D5F xC8530D x5A3B50 xF6A625 }
+		}
 		add_homeland = brazilian
-		add_homeland = guarani			
+		add_homeland = guarani
+		add_homeland = kaingang				
 	}
 	s:STATE_SANTA_CATARINA = {
 		create_state = {
@@ -2922,16 +2926,10 @@ STATES = {
 			country = c:PRG
 			owned_provinces = { x7EB6F0 xFB9D5C xF07AA3 xCD9FE6 }
 		}
-		create_state = {
-			country = c:KGG
-			owned_provinces = { xEB0D5F xC8530D x5A3B50 xF6A625 }
-		}
 		add_homeland = platinean
 		add_homeland = brazilian
-		add_homeland = guarani
-		add_homeland = kaingang		
+		add_homeland = guarani	
 		add_claim = c:COE	
-		add_claim = c:BRZ
 		add_claim = c:PRG	
 	}
 	s:STATE_TUCUMAN = {

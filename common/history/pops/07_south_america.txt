@@ -982,12 +982,6 @@ POPS = {
 				size = 500
 			}
 		}
-		region_state:KGG = {
-			create_pop = {
-				culture = kaingang
-				size = 20500
-			}
-		}
 		region_state:PRG = {
 			create_pop = {
 				culture = platinean
@@ -1346,6 +1340,12 @@ POPS = {
 		}
 	}
 	s:STATE_PARANA = { # Parana, 1830. 36566 total.
+		region_state:KGG = {
+			create_pop = {
+				culture = kaingang
+				size = 10000
+			}
+		}
 		region_state:BRZ = {
 			create_pop = {
 				culture = brazilian
@@ -1363,6 +1363,12 @@ POPS = {
 		}
 	}
 	s:STATE_SANTA_CATARINA = { # 1836 estimate. 61753 total.
+		region_state:KGG = {
+			create_pop = {
+				culture = kaingang
+				size = 10500
+			}
+		}
 		region_state:BRZ = {
 			create_pop = {
 				culture = brazilian
