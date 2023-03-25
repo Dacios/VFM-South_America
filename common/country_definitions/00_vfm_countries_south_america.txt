@@ -146,7 +146,7 @@ MDZ = {
 
 	tier = principality
 	
-	cultures = { platinean south_andean }
+	cultures = { platinean }
 	capital = STATE_RIO_NEGRO
 }
 
@@ -206,7 +206,7 @@ SJN = {
 
 	tier = principality
 	
-	cultures = { platinean south_andean }
+	cultures = { platinean }
 	capital = STATE_TUCUMAN
 }
 
