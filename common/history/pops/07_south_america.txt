@@ -266,7 +266,7 @@ POPS = {
 		region_state:CLM = {
 			create_pop = {
 				culture = amazonian
-				size = 72000
+				size = 88000
 			}
 			create_pop = {
 				culture = afro_caribeno
@@ -280,12 +280,6 @@ POPS = {
 			create_pop = {
 				culture = north_andean
 				size = 27996
-			}
-		}
-		region_state:PEU = {
-			create_pop = {
-				culture = amazonian
-				size = 16000
 			}
 		}
 	}
@@ -1657,5 +1651,4 @@ POPS = {
 				size = 416
 			}
 		}
-	}	
 }

@@ -675,7 +675,7 @@ anglo_indian = {
 	graphics = mideast_indian
 }
 
-kaingang = {
+kaingang={
 	color = { 127 28 45 }
 	religion = animist
 	traits = { indigenous_american_heritage south_american_group }
@@ -690,9 +690,8 @@ kaingang = {
         Krenak
         Terena
         Fulniô
-        Atikum
-	}
-    female_common_first_names = {
+        Atikum 
+    female_common_first_names={
 	    Kretã
 	    Kretã
         Vãngri
@@ -703,9 +702,8 @@ kaingang = {
         Krenak
         Terena
         Fulniô
-        Atikum
-	}
-	common_last_names = {
+        Atikum 
+	common_last_names={
 	    Kretã
 	    Kretã
         Vãngri
