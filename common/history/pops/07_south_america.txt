@@ -418,11 +418,18 @@ POPS = {
 		}
 	}
 	s:STATE_SANTA_CRUZ = {
+		region_state:BRZ = {
+			create_pop = {
+				culture = amazonian
+				size = 5000
+			}
+		}
 		region_state:GNI = {
 			create_pop = {
 				culture = guarani
 				size = 32000
 			}
+		}
 		region_state:BOL = {
 			create_pop = {
 				culture = south_andean
