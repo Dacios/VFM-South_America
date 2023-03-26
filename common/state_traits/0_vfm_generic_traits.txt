@@ -102,3 +102,73 @@ state_trait_Strait_of_magellan = {
 		state_building_naval_base_max_level_add = 10
 	}
 }
+
+state_trait_guaira_falls = {
+	icon = "gfx/interface/icons/state_trait_icons/waterfall.dds"
+	
+	modifier = {
+		building_output_electricity_mult = 0.2
+	}
+}
+
+state_trait_rio_harbour = {
+	icon = "gfx/interface/icons/state_trait_icons/natural_harbors.dds"
+
+	modifier = {
+		building_shipyards_throughput_mult = 0.1
+		state_building_port_max_level_add = 2
+		state_building_naval_base_max_level_add = 10
+	}
+}
+
+state_trait_santos_bay = {
+	icon = "gfx/interface/icons/state_trait_icons/natural_harbors.dds"
+
+	modifier = {
+		building_shipyards_throughput_mult = 0.1
+		state_building_port_max_level_add = 2
+		state_building_naval_base_max_level_add = 10
+	}
+}
+
+state_trait_iron_quadrangle = {
+    icon = "gfx/interface/icons/state_trait_icons/resources_ore.dds"
+	
+	modifier = {
+		building_sulfur_mine_throughput_mult = 0.1
+	}
+}
+
+state_trait_sao_francisco_river = {
+	icon = "gfx/interface/icons/state_trait_icons/river.dds"
+	
+	modifier = {
+		state_infrastructure_add = 20
+	}
+}
+
+state_trait_sertao = {
+	icon = "gfx/interface/icons/state_trait_icons/dry_climate.dds"
+	
+	modifier = {
+		building_group_bg_agriculture_throughput_mult = -0.25
+		state_construction_mult = -0.25
+		state_infrastructure_mult = -0.25
+	}
+}
+
+state_trait_massape = {
+	icon = "gfx/interface/icons/state_trait_icons/good_soils.dds"
+	
+	modifier = {
+		building_group_bg_agriculture_throughput_mult = 0.15
+	}
+}
+
+state_trait_pantanal = {
+	icon = "gfx/interface/icons/state_trait_icons/good_soils.dds"
+	
+	modifier = {
+		state_infrastructure_mult = -0.1
+	}
+}
