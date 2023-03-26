@@ -1,14 +1,27 @@
 ﻿CHARACTERS = {
 	c:ENT = {
-		create_character = {
-			first_name = "Justo_Jose"
-			last_name = "de_Urquiza"
+		create_character = { 
+		    # "Pascual Echagüe"
+			first_name = "pascual"
+			last_name = "echague"
 			ruler = yes
 			is_general = yes
-			dna = dna_Justo_Jose_de_Urquiza
-			birth_date = 1801.10.18
-		
+			birth_date = 1797.05.16
 			interest_group = ig_armed_forces
+			ideology = ideology_moderate
+			traits = {
+			    brave
+		}
+	}
+		create_character = {
+		    # "Cipriano de Urquiza"
+		    first_name = "cipriano"
+		    last_name = "de_Urquiza"
+		    birth_date = 1789.11.25
+		    interest_group = ig_rural_folk
+			ideology = ideology_moderate
+			traits = {
+			    political_operator
 		}	
 	}
 }
