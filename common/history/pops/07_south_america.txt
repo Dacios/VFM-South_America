@@ -455,6 +455,25 @@ POPS = {
 		}
 	}
 	s:STATE_LA_PAZ = {
+		region_state:GNI = {
+			create_pop = {
+			    culture = guarani 
+			    size = 200
+			}
+		region_state:BRZ = {
+			create_pop = {
+			    culture = amazonian 
+			    size = 5000
+			}
+			create_pop = {	
+			    culture = brazilian
+			    size = 600
+			}
+			create_pop = {	
+			    culture = quechua
+			    size = 600
+			}
+		}	
 		region_state:PEU = {
 			create_pop = {
 			    culture = amazonian 
@@ -753,16 +772,16 @@ POPS = {
 		region_state:JUJ = {
 			create_pop = {
 				culture = platinean
-				size = 1341
+				size = 2500
 			}
 			create_pop = {
 				culture = quechua
-				size = 4652
+				size = 6050
 			}
 			create_pop = {
 				culture = quechua
 				religion = camaquen
-				size = 1209
+				size = 1200
 			}
 		}
 	}
@@ -808,7 +827,7 @@ POPS = {
 		region_state:BUE = {
 			create_pop = {
 				culture = platinean
-				size = 206600
+				size = 236600
 			}
 			create_pop = {
 				culture = afro_caribeno
@@ -930,7 +949,7 @@ POPS = {
 		region_state:SFE = {
 			create_pop = {
 				culture = platinean
-				size = 60000
+				size = 18000
 			}
 			create_pop = {
 				culture = afro_caribeno
@@ -957,16 +976,16 @@ POPS = {
 		region_state:ENT = {
 			create_pop = {
 				culture = platinean
-				size = 34658
+				size = 63910
 			}
 			create_pop = {
 				culture = afro_caribeno
-				size = 600
+				size = 1000
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_caribeno
-				size = 250
+				size = 450
 			}
 		}
 	}
@@ -974,24 +993,24 @@ POPS = {
 		region_state:COE = {
 			create_pop = {
 				culture = platinean
-				size = 101462
+				size = 30146
 			}
 			create_pop = {
 				culture = brazilian
-				size = 12004
+				size = 2005
 			}
 			create_pop = {
 				culture = guarani
-				size = 26997
+				size = 4800
 			}
 			create_pop = {
 				culture = afro_caribeno
-				size = 1600
+				size = 160
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_caribeno
-				size = 500
+				size = 50
 			}
 		}
 		region_state:PRG = {
@@ -1055,26 +1074,26 @@ POPS = {
 		region_state:CMA = {
 			create_pop = {
 				culture = platinean
-				size = 34000
+				size = 2751
 			}
 			create_pop = {
 				culture = afro_caribeno
-				size = 62
+				size = 500
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_caribeno
-				size = 20
+				size = 50
 			}
 			create_pop = {
 				culture = quechua
-				size = 650
+				size = 5000
 			}
 		}
 		region_state:LRJ = {
 			create_pop = {
 				culture = platinean
-				size = 19019
+				size = 21500
 			}
 			create_pop = {
 				culture = afro_caribeno
@@ -1141,6 +1160,16 @@ POPS = {
 		}
 	}
 	s:STATE_SANTIAGO = {
+		region_state:BOL = {
+			create_pop = {
+				culture = quechua
+				size = 300
+			}
+			create_pop = {
+				culture = chilean
+				size = 20
+			}
+		}
 		region_state:CHL = {
 			create_pop = {
 				culture = chilean
@@ -1181,19 +1210,19 @@ POPS = {
 				size = 66479
 			}
 			create_pop = {
-				culture = araucanian
+				culture = kawesqar
 				size = 4243
 			}
 		}
 		region_state:THL = {
 			create_pop = {
-				culture = araucanian
+				culture = kawesqar
 				size = 28200
 			}
 		}
 		region_state:SLK = {
 			create_pop = {
-				culture = araucanian
+				culture = kawesqar
 				size = 12000
 			}
 		}
