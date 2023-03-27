@@ -10,8 +10,7 @@
 		Alfred
 		August
 		Bernhard
-		Burkhard
-		
+		Burkhard		
 		Dieter
 		Eduard
 		Edwin
@@ -11668,7 +11667,7 @@ amazonian={
 	graphics = generic
 }
 
-araucanian={
+kawesqar={
 	color=hsv{ 0.23 0.24 0.9 }
 	religion = animist
 	traits = { indigenous_american_heritage south_american_group }
@@ -11714,46 +11713,47 @@ araucanian={
 		Ximena
 	}	
 	noble_last_names = {
-		Calfucura
-		Colipi
+		Kitchikouar 
+		Tshakulélé
 		Conoepan
-		Melin
+		Kainebi
 		Namuncura
-		Paillalef
-		Quilapan
+		Atama
+		Datu
+		Stapa
 	}
 	common_last_names={
-		Aliwen
-		Amuylifko
+		Ala
+		Chuku
 		Aukan
-		Ayllapan
-		Bravo
+		Ekuué
+		Koupachpe
 		Chiguay
 		Cumin
-		Curumilla
+		Shima
 		Epulewfu
 		Foyelkay
-		Guaiquil
+		Hiutul
 		Huichaman
 		Ilwen
 		Kayupi
-		Kumlafken
+		Ouarouch
 		Kvlapi
-		Levinanco
-		Lincoman
-		Marifil
+		Luchfai
+		Kupáspá
+		Uyana
 		Melifilu
-		Millakoyam
-		Millapani
+		Azalá
+		Tshaff
 		Nahuel
-		Paillacar
-		Pillancar
+		kech
+		Uhkul
 		Quelin
-		Remultray
+		Ouchta
 		Unquen
-		Waikimill
-		Yankvleufu
-		Nanku
+		Lamana
+		Kitkaika
+		Elech
 	}
 	ethnicities = {
 		1 = native_american
