@@ -3021,6 +3021,7 @@ STATES = {
 		add_homeland = south_andean
 		add_homeland = guarani
 		add_homeland = quechua
+		add_claim = c:BOL
 	}
 	s:STATE_LA_PAZ = {
 		create_state = {
@@ -3044,6 +3045,7 @@ STATES = {
 		add_homeland = aimara
 		add_homeland = quechua		
 		add_homeland = amazonian
+		add_claim = c:BOL
 	}
 	s:STATE_POTOSI = {
 		create_state = {

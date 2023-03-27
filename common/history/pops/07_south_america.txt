@@ -1075,7 +1075,7 @@ POPS = {
 		region_state:CMA = {
 			create_pop = {
 				culture = platinean
-				size = 2751
+				size = 4751
 			}
 			create_pop = {
 				culture = afro_caribeno
@@ -1088,7 +1088,7 @@ POPS = {
 			}
 			create_pop = {
 				culture = quechua
-				size = 5000
+				size = 2053
 			}
 		}
 		region_state:LRJ = {
