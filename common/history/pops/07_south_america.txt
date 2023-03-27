@@ -460,6 +460,7 @@ POPS = {
 			    culture = guarani 
 			    size = 200
 			}
+		}
 		region_state:BRZ = {
 			create_pop = {
 			    culture = amazonian 

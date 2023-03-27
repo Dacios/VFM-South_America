@@ -2325,7 +2325,7 @@ SLK = {
 	
 	tier = principality
 	
-	cultures = { araucanian }
+	cultures = { kawesqar }
 	capital = STATE_ARAUCANIA
 }
 

@@ -4,37 +4,35 @@
 		    # "José Simón García de Cossio"
 			first_name = "jose_simon"
 			last_name = "garcia_cossio"
-			ruler = yes
-			is_general = yes
 			birth_date = 1766.10.29
-			interest_group = ig_petite_bourgeoise
+			ig_leader = yes
+			interest_group = ig_petty_bourgeoisie
 			ideology = ideology_moderate
-			traits = {
-			    political_operator
-		}
-	}
+		    }
+
 		create_character = { 
 		    # "Pascual Echagüe"
 			first_name = "pascual"
 			last_name = "echague"
 			ruler = yes
 			is_general = yes
-			birth_date = 1797.05.16
+			birth_date = 1797.5.16
+			ig_leader = yes
 			interest_group = ig_armed_forces
 			ideology = ideology_moderate
 			traits = {
 			    brave
-		}
-	}
+		    }
+	    }
+	    
 		create_character = {
 		    # "Cipriano de Urquiza"
 		    first_name = "cipriano"
 		    last_name = "de_Urquiza"
 		    birth_date = 1789.11.25
+			ig_leader = yes
 		    interest_group = ig_rural_folk
 			ideology = ideology_moderate
-			traits = {
-			    political_operator
-		}	
+			}
+		}
 	}
-}
