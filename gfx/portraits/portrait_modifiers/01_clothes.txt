@@ -1455,6 +1455,88 @@ indian_royal_clothes = {
         }
     }
 
+oribe_clothes = {
+        dna_modifiers = {
+            accessory = {
+                mode = add
+                gene = aiguillettes
+                template = all_aiguillettes
+                range = { 0 0 } 
+            }
+            accessory = {
+                mode = add
+                gene = epaulettes
+                template = all_epaulettes
+                range = { 0.62 0.62 } 
+            }
+            accessory = {
+                mode = add
+                gene = coats
+                template = american_coats
+                range = { 0.34 0.34 } # limiting the set to single-breasted coats, so aiguillettes work
+            }
+            accessory = {
+                mode = add
+                gene = legwear
+                template = ottoman_legwear
+                range = { 0 0 } # For the randomness to work correctly
+            }
+        }
+        weight = {
+            base = 0
+            modifier = {
+                add = 10000
+                AND = {
+                    oribe_clothes_trigger = yes
+                }
+            }
+        }
+    }
+
+prieto_clothes = {
+        dna_modifiers = {
+            accessory = {
+                mode = add
+                gene = aiguillettes
+                template = all_aiguillettes
+                range = { 0 0 } 
+            }
+            accessory = {
+                mode = add
+                gene = epaulettes
+                template = all_epaulettes
+                range = { 0.62 0.62 } 
+            }
+            accessory = {
+                mode = add
+                gene = belts
+                template = all_belts
+                range = { 0.46 0.46 }   
+            }         
+            accessory = {
+                mode = add
+                gene = coats
+                template = french_coats
+                range = { 0.19 0.19 } # limiting the set to single-breasted coats, so aiguillettes work
+            }
+            accessory = {
+                mode = add
+                gene = legwear
+                template = ottoman_legwear
+                range = { 0 0 } # For the randomness to work correctly
+            }
+        }
+        weight = {
+            base = 0
+            modifier = {
+                add = 10000
+                AND = {
+                    prieto_clothes_trigger = yes
+                }
+            }
+        }
+    }
+
     christian_character_clothes = {
         dna_modifiers = {
             accessory = {

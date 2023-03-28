@@ -1,0 +1,33 @@
+CHARACTERS = {
+	c:URU = {
+		create_character = {
+			# Manuel Oribe
+			first_name = "Manuel"
+			last_name = "Oribe"
+			ruler = yes
+			ig_leader = yes
+			age = 44
+			dna = dna_manuel_oribe
+			interest_group = ig_landowners
+			ideology = ideology_moderate
+			traits = {
+				imperious
+			}
+			on_created = {
+				set_variable = {
+					name = is_oribe
+				}				
+			}
+		}
+		create_character = {
+			# Andrés Lamas
+			first_name = "Andres"
+			last_name = "Lamas"
+			ig_leader = yes
+			birth_date = 1817.11.10
+			dna = dna_Andres_Lamas
+			interest_group = ig_intelligentsia
+			ideology = ideology_market_liberal
+		}
+	}
+}

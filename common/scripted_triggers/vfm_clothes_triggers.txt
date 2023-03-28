@@ -1,0 +1,45 @@
+﻿oribe_clothes_trigger = {
+    exists = scope:character
+    scope:character = {
+        AND = {
+            OR = {
+            is_ruler = yes
+            has_role = general
+            has_role = admiral
+            }
+            is_oribe = yes
+            owner = {
+            exists = c:URU
+            c:URU = this
+            OR = {
+                has_law = law_type:law_presidential_republic
+                has_law = law_type:law_parliamentary_republic
+                has_law = law_type:law_council_republic
+                }
+            }
+        }
+    }
+}
+
+prieto_clothes_trigger = {
+    exists = scope:character
+    scope:character = {
+        AND = {
+            OR = {
+            is_ruler = yes
+            has_role = general
+            has_role = admiral
+            }
+            is_prieto = yes
+            owner = {
+            exists = c:CHL
+            c:CHL = this
+            OR = {
+                has_law = law_type:law_presidential_republic
+                has_law = law_type:law_parliamentary_republic
+                has_law = law_type:law_council_republic
+                }
+            }
+        }
+    }
+}
