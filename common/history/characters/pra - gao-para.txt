@@ -5,9 +5,10 @@
 			#role = politician # Remove this line
 			first_name = "eduardo"
 			last_name = "angelim"
+			dna = dna_eduardo_angelim
 			ruler = yes
 			culture = cu:brazilian
-			age = 22
+			birth_date = 1814.7.6
 			interest_group = ig_intelligentsia
 			ig_leader = yes
 			ideology = ideology_radical
