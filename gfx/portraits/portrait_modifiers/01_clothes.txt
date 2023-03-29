@@ -1493,38 +1493,6 @@ oribe_clothes = {
         }
     }
 
-portales_clothes = {
-        dna_modifiers = {
-            accessory = {
-                mode = add
-                gene = headgear
-                template = european_common_headgear
-                range = { 0.99 0.99 } 
-            }
-            accessory = {
-                mode = add
-                gene = shirts
-                template = european:shirt
-                range = { 0.99 0.99 } 
-            }
-            accessory = {
-                mode = add
-                gene = legwear
-                template = european_legwear_colors
-                range = { 0.27 0.27 } 
-            }
-        }
-        weight = {
-            base = 0
-            modifier = {
-                add = 10000
-                AND = {
-                    portales_clothes_trigger = yes
-                }
-            }
-        }
-    }
-
 prieto_clothes = {
         dna_modifiers = {
             accessory = {
