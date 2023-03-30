@@ -267,3 +267,14 @@ NGH = {
 	cultures = { mapuche }
 	capital = STATE_LOS_RIOS
 }
+
+ATM = {
+	color = { 255  205  155 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { atacamenos }
+	capital = STATE_ANTOFAGASTA
+}
