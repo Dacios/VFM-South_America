@@ -378,42 +378,35 @@ POPS = {
 		}
 	}
 	s:STATE_ANTOFAGASTA = {
+		region_state:ATM = {
+			create_pop = {
+			create_pop = {
+				culture = atacamenos
+				size = 7000
+			}
+			create_pop = {
+				culture = aimara
+				size = 900
+			}
+		}
 		region_state:BOL = {
 			create_pop = {
-				culture = chilean
-				size = 1873
-			}
-			create_pop = {
 				culture = south_andean
-				size = 1576
+				size = 800
 			}
 			create_pop = {
 				culture = atacamenos
-				size = 323
-			}
-			create_pop = {
-				culture = atacamenos
-				religion = camaquen
-				size = 3696
+				size = 100
 			}
 			create_pop = {
 				culture = afro_caribeno
-				size = 60
+				size = 10
 			}
 		}
 		region_state:CHL = {
 			create_pop = {
 				culture = chilean
-				size = 5789
-			}
-			create_pop = {
-				culture = atacamenos
-				religion = camaquen
-				size = 8399
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 60
+				size = 600
 			}
 		}
 	}
