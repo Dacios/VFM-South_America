@@ -380,7 +380,6 @@ POPS = {
 	s:STATE_ANTOFAGASTA = {
 		region_state:ATM = {
 			create_pop = {
-			create_pop = {
 				culture = atacamenos
 				size = 7000
 			}
@@ -396,7 +395,7 @@ POPS = {
 			}
 			create_pop = {
 				culture = atacamenos
-				size = 100
+				size = 1000
 			}
 			create_pop = {
 				culture = afro_caribeno
@@ -1043,7 +1042,7 @@ POPS = {
 			}
 			create_pop = {
 				culture = quechua
-				size = 3800
+				size = 4000
 			}
 		}
 		region_state:TUC = {

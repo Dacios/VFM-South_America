@@ -8640,11 +8640,15 @@ add_claim = c:BPR
 	s:STATE_ANTOFAGASTA = {
 		create_state = {
 			country = c:ATM
-			owned_provinces = { x20e574 x82a274 xee0067 x291c71 x1b2ec2 x6b33d0 x2000f0 xcaecef x8F918A xF39FDA xE96CF4 x4DCF72 xDE43F7 xCE7F3B x71C02C x694D06 x2df128 x7984df x208070 x8ba717 x40d35c xf5e20e x3fdc05 }
+			owned_provinces = { x20e574 x82a274 xee0067 x291c71 x1b2ec2 x6b33d0 xcaecef x8F918A xF39FDA xE96CF4 x4DCF72 xDE43F7 xCE7F3B x71C02C x208070 x8ba717 x40d35c xf5e20e x3fdc05 }
 		}
 		create_state = {
 			country = c:BOL
-			owned_provinces = { xCC472E x8238EF }
+			owned_provinces = { xCC472E x8238EF x7984df x2df128 x694D06 }
+		}
+		create_state = {
+			country = c:CHL
+			owned_provinces = { x2000f0 }
 		}
 		
 		add_homeland = atacamenos	
