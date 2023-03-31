@@ -8645,10 +8645,12 @@ add_claim = c:BPR
 		create_state = {
 			country = c:BOL
 			owned_provinces = { xCC472E x8238EF x7984df x2df128 x694D06 }
+			# state_type = unincorporated
 		}
 		create_state = {
 			country = c:CHL
 			owned_provinces = { x2000f0 }
+			# state_type = unincorporated
 		}
 		
 		add_homeland = atacamenos	

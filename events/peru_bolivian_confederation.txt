@@ -255,7 +255,7 @@ peru_bolivia_confederation.3 = { #Division of Peru
 		s:STATE_AMAZONAS = {
 			set_owner_of_provinces = {
 				country = c:ESP
-				provinces = { x83B1BA x8BD00A x4C2A62 xEC140B xFC221C xB43B72 xE8E12A xF192D6 x4751E8 xCF9E9F x8A5A62 x41C0D0 x7CD52C xA88EBF x9AE5DE xBC7468 x6809E1 x5C413B x2404C7 x3FA0FB x6C2ED1 x2F69F7 }
+				provinces = { x83B1BA x8BD00A x4C2A62 xEC140B xFC221C xB43B72 xE8E12A xF192D6 x4751E8 xCF9E9F x8A5A62 x41C0D0 x7CD52C xA88EBF x9AE5DE xBC7468 x6809E1 x5C413B x2404C7 x3FA0FB x6C2ED1 x2F69F7 x8D8F6 }
 			}
 		}
         create_diplomatic_pact = {
