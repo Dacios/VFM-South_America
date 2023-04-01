@@ -1130,7 +1130,7 @@
 			}
 			create_building={
 				building="building_wheat_farm"
-				level=2
+				level=4
 				reserves=1
 				activate_production_methods={ "pm_simple_farming" "pm_privately_owned" "pm_tools_disabled" "pm_vineyards" }
 			}
@@ -1184,7 +1184,7 @@
 			}	
 			create_building={
 				building="building_wheat_farm"
-				level=1
+				level=2
 				reserves=1
 				activate_production_methods={ "pm_simple_farming" "pm_privately_owned" "pm_tools_disabled" "pm_vineyards" }
 			}
