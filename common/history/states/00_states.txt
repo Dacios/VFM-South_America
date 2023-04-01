@@ -2585,7 +2585,7 @@ STATES = {
 		create_state = {
 			country = c:PEU
 			owned_provinces = { 
-				xFC221C xB43B72	x2F15DF x7CD52C x83B1BA x645927 x2B8C6E xF7FD32 x14EE0B x36E83E xE2B0B7 x4315D5 xE8D3C3 xABA7B1 x6A1760 xE5EF82 xE8E12A x2404C7 x2F69F7 x6C2ED1 x3FA0FB x5C39FF xF97E89 xC886E3 xFCD456 x40C090 x47D820 x817AFB xF192D6 x4751E8 x9AE5DE xA88EBF xEC140B xF3946E xFC29D0 xF47364 xCF9E9F xBC7468 x8A5A62 x6809E1 x4C2A62 x8BD00A x2A5962 xC04090 xEDAC7C xED3292 x237C27	xB29291 x2AF127 x8F231D x8D8F6C
+				xFC221C xB43B72	x2F15DF x7CD52C x83B1BA x645927 x2B8C6E xF7FD32 x14EE0B x36E83E xE2B0B7 x4315D5 xE8D3C3 xABA7B1 x6A1760 xE5EF82 xE8E12A x2404C7 x2F69F7 x6C2ED1 x3FA0FB x5C39FF xF97E89 xC886E3 xFCD456 x40C090 x47D820 x817AFB xF192D6 x4751E8 x9AE5DE xA88EBF xEC140B xF3946E xFC29D0 xF47364 xCF9E9F xBC7468 x8A5A62 x6809E1 x4C2A62 x8BD00A x2A5962 xC04090 xEDAC7C xED3292 x237C27	xB29291 x8F231D x8D8F6C
 			}
 			state_type = unincorporated
 		}
@@ -8645,12 +8645,12 @@ add_claim = c:BPR
 		create_state = {
 			country = c:BOL
 			owned_provinces = { xCC472E x8238EF x7984df x2df128 x694D06 }
-			# state_type = unincorporated
+			state_type = unincorporated
 		}
 		create_state = {
 			country = c:CHL
 			owned_provinces = { x2000f0 }
-			# state_type = unincorporated
+			state_type = unincorporated
 		}
 		
 		add_homeland = atacamenos	
